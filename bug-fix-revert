@@ -1,0 +1,25 @@
+﻿$ curl https://api.github.com/repos/saherrera456-cell/ibm_simpl_cacl/pulls/1
+
+{
+  "url": "https://api.github.com/repos/saherrera456-cell/ibm_simpl_cacl/pulls/1",
+  "id": 987654321,
+  "html_url": "https://github.com/saherrera456-cell/ibm_simpl_cacl/pull/1",
+  "state": "open",
+  "title": "Bug fix typo",
+  "user": {
+    "login": "saherrera456-cell"
+  },
+  "head": {
+    "label": "saherrera456-cell:bug-fix-typo",
+    "repo": {
+      "full_name": "saherrera456-cell/ibm_simpl_cacl",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
