@@ -1,0 +1,15 @@
+﻿$ curl https://api.github.com/repos/saherrera456-cell/ibm_simpl_cacl
+
+{
+  "name": "ibm_simpl_cacl",
+  "full_name": "saherrera456-cell/ibm_simpl_cacl",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "source": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
