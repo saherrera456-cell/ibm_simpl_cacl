@@ -1,23 +1,20 @@
+# Simple Interest Calculator
 
-# Calculadora de Interés Simple
+A shell script that calculates simple interest given principal, annual rate of interest and time period in years.
 
-Proyecto sencillo que calcula el interés simple usando la fórmula:
+## Description
+This project is part of a practice exercise for calculating simple interest. It takes the principal amount, interest rate, and time period as input and outputs the total interest earned.
 
-```
-Interés = Capital × Tasa × Tiempo
-```
+## Formula
+The formula used for simple interest is:
+**I = P * r * t**
 
-## Cómo usar
+Where:
+- `P` = Principal amount
+- `r` = Annual rate of interest
+- `t` = Time period in years
 
-Ejecuta el archivo `calculadora.py`:
-
-```
-python calculadora.py
-```
-
-## Archivos incluidos
-- calculadora.py — Lógica principal
-- README.md — Documentación del proyecto
-
-## Autor
-Santiago Herrera Rojas
+## How to use
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/saherrera456-cell/ibm_simpl_cacl.git](https://github.com/saherrera456-cell/ibm_simpl_cacl.git)
